@@ -1,0 +1,9 @@
+{
+  "domain": "gzwater",
+  "name": "广州自来水96968",
+  "documentation": "https://github.com/kam-zhu/gzwater",
+  "requirements": ["requests>=2.25.0", "beautifulsoup4>=4.9.0"],
+  "dependencies": [],
+  "codeowners": [],
+  "version": "1.0.1"
+}
